@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a freelancer <br>👯 I’m looking to collaborate for developing full stack web application.<br>🤝 I’m looking for help or a referral.<br>🌱 I’m currently learning DevOps.<br>💬 Ask me about Web Development, Accessibility and SEO.<br>⚡Fact about me : Always learning<br>
+🔭 I’m currently working as a freelancer <br>👯 I’m looking to collaborate for developing full stack web application.<br>🤝 I’m looking for help or a referral.<br>💬 Ask me about Web Development, Accessibility and SEO.<br>⚡Fact about me : Always learning<br>
 
 
 ## 🌐 Socials:
