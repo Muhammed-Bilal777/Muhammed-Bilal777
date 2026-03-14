@@ -1,5 +1,7 @@
 # 💫 About Me: Software Developer
-👯 I’m looking to collaborate for developing full stack web application.<br>🤝 I’m looking for help or a referral.<br>💬 Ask me about Web Development, Accessibility and SEO.<br>⚡Fact about me : Always learning<br>
+👯 🚀 Full Stack Developer with 4+ years of experience building scalable web applications.
+Passionate about clean code, system design, and delivering production-grade software.
+Currently exploring DevOps, Java/Spring Boot, and Kubernetes.<br>⚡Fact about me : Always learning<br>
 
 
 ## 🌐 Socials:
