@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Software Developer
 👯 I’m looking to collaborate for developing full stack web application.<br>🤝 I’m looking for help or a referral.<br>💬 Ask me about Web Development, Accessibility and SEO.<br>⚡Fact about me : Always learning<br>
 
 
